@@ -14,6 +14,10 @@
 			<organization>Faculty of Informatics, University of Debrecen</organization>
 			<organizationUrl>http://www.inf.unideb.hu/</organizationUrl>
 		</developer>
+		<developer>
+			<name>Antal Tóth</name>
+			<email>tothantal0326@gmail.com</email>
+		</developer>
 	</developers>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
